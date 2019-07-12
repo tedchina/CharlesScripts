@@ -11,7 +11,7 @@
 
 set -e
 if [ -z "$EDITOR" ]; then
-    EDITOR=vi
+    EDITOR=gedit
 fi
 
 WEBSITE=http://ss.pythonic.life
